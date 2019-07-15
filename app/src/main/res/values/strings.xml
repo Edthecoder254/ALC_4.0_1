@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC  4.0 Phase 1</string>
+    <string name="welcome_banner">Welcome to ALC 4.0</string>
+    <string name="title_activity_about_andela">AboutAndela</string>
+    <string name="About_ALC">About ALC</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="My_Profile"> My Profile</string>
+
+
+    <string name="Name"> Marvin Mwenda Mugendi</string>
+    <string name="Track">Track: Android</string>
+    <string name="Country">Country: Kenya</string>
+    <string name="Email">Email: marvin.mwenda13@gmail.com</string>
+    <string name="Phone">Phone number: 254701919020</string>
+    <string name="Slack_username">Slack Username: @Marvin Mugendi</string>
+</resources>
